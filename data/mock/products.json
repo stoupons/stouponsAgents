@@ -1,0 +1,37 @@
+{
+  "_note": "MOCK DATA for learning. Replace with the real Stoupons catalog. Prices intentionally omitted: they come from the pricing engine (Agent #5).",
+  "products": [
+    {
+      "sku": "WS-48K",
+      "name": "Water Softener 48,000 grain",
+      "category": "water_softener",
+      "grain_capacity": 48000,
+      "typical_household_size": "1-3 people",
+      "requires_loop": true
+    },
+    {
+      "sku": "WS-64K",
+      "name": "Water Softener 64,000 grain",
+      "category": "water_softener",
+      "grain_capacity": 64000,
+      "typical_household_size": "4-5 people",
+      "requires_loop": true
+    },
+    {
+      "sku": "WS-96K",
+      "name": "Water Softener 96,000 grain",
+      "category": "water_softener",
+      "grain_capacity": 96000,
+      "typical_household_size": "6+ people or very hard water",
+      "requires_loop": true
+    },
+    {
+      "sku": "RO-STD",
+      "name": "Reverse Osmosis Drinking Water System",
+      "category": "reverse_osmosis",
+      "stages": 5,
+      "typical_household_size": "any",
+      "requires_loop": false
+    }
+  ]
+}
