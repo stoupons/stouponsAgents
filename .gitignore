@@ -16,3 +16,6 @@ chroma_db/
 .vscode/settings.json
 .DS_Store
 Thumbs.db
+
+# Logs / traces
+logs/

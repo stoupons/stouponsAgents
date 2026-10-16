@@ -1,5 +1,7 @@
 # Phase 0-1. More libraries get added as you build each agent.
-anthropic
+anthropic>=1.14
 python-dotenv
 pydantic
 pytest
+pyyaml
+chromadb
